@@ -17,7 +17,7 @@ I'm Ahmad, a passionate Frontend Developer from Indonesia 🇮🇩
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ## 📊 GitHub Stats
-![Andika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANazmuddin&show_icons=true&theme=radical)
+![Ahmad Nazmuddin GitHub stats](https://github-readme-stats.vercel.app/api?username=ANazmuddin&show_icons=true&theme=github_dark)
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmad-nazmuddin-04b8aa285)
