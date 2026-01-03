@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Ahmad! 👋
+# Hi there, I'm Ahmad! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d112-11ea-84d8-159575902341.gif" width="30px" alt="hi">
 
 ### 🚀 Freelance Full Stack & Frontend Developer 🇮🇩
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=37BCF7&center=true&vCenter=true&width=435&lines=Building+Modern+Web+Experiences;Specialized+in+Laravel+%26+Vue.js;Open+for+Freelance+Projects!" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-nazmuddin-04b8aa285">
@@ -55,11 +59,8 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+[![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANazmuddin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ANazmuddin)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANazmuddin&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANazmuddin&layout=compact&theme=dark)
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANazmuddin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ANazmuddin)
 
 </div>
