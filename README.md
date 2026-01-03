@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ahmad-nazmuddin-04b8aa285">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/ahnan.tsx/">
+  <a href="https://www.instagram.com/ahnan.dev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
@@ -55,10 +55,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANazmuddin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ahmad Nazmuddin Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANazmuddin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANazmuddin&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANazmuddin&layout=compact&theme=dark)
+
+</div>
 
 </div>
