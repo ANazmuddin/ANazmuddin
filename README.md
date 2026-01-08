@@ -23,7 +23,7 @@
 - 🌱 I’m currently deepening my knowledge in **Laravel, Vue.js & Inertia.js**
 - 🐍 I also explore **Python** for backend & scripting
 - 🤝 I’m available for **Full Stack Web & Frontend Projects**
-- ⚡ **Fun fact:** I love designing interfaces and exploring code!
+- ⚡ **Fun fact:** I love designing interfaces and exploring code!!
 
 ---
 
