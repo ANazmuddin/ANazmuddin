@@ -17,7 +17,7 @@
 
 ---
 
-### 🧐 About Me
+### 🧐 About Me!!
 
 - 💼 I’m currently working as a **Freelance Developer** (Open for Hire!)
 - 🌱 I’m currently deepening my knowledge in **Laravel, Vue.js & Inertia.js**
